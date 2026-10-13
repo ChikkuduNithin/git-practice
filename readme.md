@@ -10,7 +10,7 @@ Learning Git for corporate development.
 
 \- Volunteer punch-in
 
-- Volunteer punch-out
-
-
+* Volunteer punch-out
+-and you know
+* 
 
